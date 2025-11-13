@@ -26,6 +26,6 @@ public class MyCalculator {
 		System.out.println("Sum is :"+calc.sum(20, 10));
 		System.out.println("Diff is :"+calc.diff(20, 10));
 		System.out.println("Mul is :"+calc.mul(20, 10));
-		System.out,println("Modulas is:"+calc.mod(20, 10));
+		System.out.println("Modulas is:"+calc.mod(20, 10));
 	}
 }
